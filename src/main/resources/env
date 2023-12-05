@@ -1,0 +1,3 @@
+H2_URL_TCP=jdbc:h2:tcp://host-do-banco/local-do-banco
+H2_USER=user
+H2_PASS=password
